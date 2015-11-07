@@ -1,0 +1,59 @@
+nohup: ignoring input
+Fri, 06 Nov 2015 00:43:11 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:12:9
+Fri, 06 Nov 2015 00:43:11 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+In getcity route
+In getcity route
+In comment route
+[Error: /opt/bitnami/nodejs/lib/node_modules/mongodb/node_modules/bson/build/Release/bson.node: invalid ELF header]
+js-bson: Failed to load c++ bson extension, using pure JS version
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' } ]
+In comment route
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' } ]
+In getcity route
+In getcity route
+In comment route
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' } ]
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
