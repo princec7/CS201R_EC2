@@ -1,0 +1,60 @@
+extends layout
+
+block content
+    h1= title
+    
+    // Wrapper
+    #wrapper
+
+        // USER INFO
+        #userInfo
+            h2 Member Info
+            p
+                |  <span id='userInfoPicture'></span>                
+                br
+                strong Name:
+                |  <span id='userInfoName'></span>
+                br
+                strong Membership No.:
+                |  <span id='userInfoMembership'></span>
+                br
+                strong Age:
+                |  <span id='userInfoAge'></span>
+                br
+                strong Gender:
+                |  <span id='userInfoGender'></span>
+                br
+                strong Location:
+                |  <span id='userInfoLocation'></span>
+        // /USER INFO
+        
+        // USER LIST
+        h2 Member List
+        #userList
+            table
+                thead
+                    th Member Name
+                    th Email
+                    th Delete?
+                tbody
+        // /USER LIST
+        
+        // ADD USER
+        h2 Add Member
+        #addUser
+            fieldset
+                input#inputUserName(type='text', placeholder='Full Name')
+                input#inputUserEmail(type='text', placeholder='Email')
+                br
+                input#inputUserFullname(type='text', placeholder='Membership No.')
+                input#inputUserAge(type='text', placeholder='Age')
+                br
+                input#inputUserLocation(type='text', placeholder='Address')
+                input#inputUserGender(type='text', placeholder='Gender')
+                br
+                input#inputUserPicture(type='text', placeholder='Picture URL')
+                br
+                button#btnAddUser Add Member
+        // /ADD USER
+
+    // /WRAPPER

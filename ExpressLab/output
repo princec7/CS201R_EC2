@@ -1,8 +1,6 @@
 nohup: ignoring input
-Fri, 06 Nov 2015 00:43:11 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:12:9
-Fri, 06 Nov 2015 00:43:11 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
-In getcity route
-In getcity route
+Tue, 10 Nov 2015 21:53:13 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:12:9
+Tue, 10 Nov 2015 21:53:13 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
 In comment route
 [Error: /opt/bitnami/nodejs/lib/node_modules/mongodb/node_modules/bson/build/Release/bson.node: invalid ELF header]
 js-bson: Failed to load c++ bson extension, using pure JS version
@@ -14,6 +12,18 @@ Document Array:
   { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
   { _id: 563bf689bed0eef13eb3f3be,
     Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563e7840b13f02f0503d7a1d,
+    Name: 'Brad',
+    Comment: 'This lab deserves 100%!' },
+  { _id: 564266124679dfcb6920b348,
+    Name: 'Testing',
     Comment: 'Hello' } ]
 In comment route
 Document Array: 
@@ -24,7 +34,30 @@ Document Array:
   { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
   { _id: 563bf689bed0eef13eb3f3be,
     Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563e7840b13f02f0503d7a1d,
+    Name: 'Brad',
+    Comment: 'This lab deserves 100%!' },
+  { _id: 564266124679dfcb6920b348,
+    Name: 'Testing',
     Comment: 'Hello' } ]
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
 In getcity route
 In getcity route
 In comment route
@@ -36,24 +69,16 @@ Document Array:
   { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
   { _id: 563bf689bed0eef13eb3f3be,
     Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563e7840b13f02f0503d7a1d,
+    Name: 'Brad',
+    Comment: 'This lab deserves 100%!' },
+  { _id: 564266124679dfcb6920b348,
+    Name: 'Testing',
     Comment: 'Hello' } ]
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route
-In getcity route

@@ -1,0 +1,256 @@
+nohup: ignoring input
+URL path /index.html
+URL search 
+URL query undefined
+URL path /index.html
+URL search 
+URL query undefined
+URL path /comment
+URL search 
+URL query undefined
+comment route
+[Error: /opt/bitnami/nodejs/lib/node_modules/mongodb/node_modules/bson/build/Release/bson.node: invalid ELF header]
+js-bson: Failed to load c++ bson extension, using pure JS version
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' } ]
+URL path /comment
+URL search 
+URL query undefined
+comment route
+POST comment route
+Chunk: {"Name":"Mickey","Comment":"Hello"}
+end: {"Name":"Mickey","Comment":"Hello"}
+{ Name: 'Mickey', Comment: 'Hello' }
+Name: Mickey
+Comment: Hello
+Record added as 563e74e4b13f02f0503d7a1c
+URL path /comment
+URL search 
+URL query undefined
+comment route
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+URL path /comment
+URL search 
+URL query undefined
+comment route
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+URL path /comment
+URL search 
+URL query undefined
+comment route
+POST comment route
+Chunk: {"Name":"Brad","Comment":"This lab deserves 100%!"}
+end: {"Name":"Brad","Comment":"This lab deserves 100%!"}
+{ Name: 'Brad', Comment: 'This lab deserves 100%!' }
+Name: Brad
+Comment: This lab deserves 100%!
+Record added as 563e7840b13f02f0503d7a1d
+URL path /comment
+URL search 
+URL query undefined
+comment route
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563e7840b13f02f0503d7a1d,
+    Name: 'Brad',
+    Comment: 'This lab deserves 100%!' } ]
+URL path /index.html
+URL search 
+URL query undefined
+URL path /comment
+URL search 
+URL query undefined
+comment route
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563e7840b13f02f0503d7a1d,
+    Name: 'Brad',
+    Comment: 'This lab deserves 100%!' } ]
+URL path /
+URL search 
+URL query undefined
+URL path /testproxy.php
+URL search 
+URL query undefined
+URL path /web-console/ServerInfo.jsp
+URL search 
+URL query undefined
+URL path /jmx-console/HtmlAdaptor
+URL search ?action=inspectMBean&name=jboss.system:type=ServerInfo
+URL query undefined
+URL path /invoker/JMXInvokerServlet
+URL search 
+URL query undefined
+URL path /
+URL search 
+URL query undefined
+URL path /tmUnblock.cgi
+URL search 
+URL query undefined
+URL path /
+URL search 
+URL query undefined
+URL path /
+URL search 
+URL query undefined
+URL path /testproxy.php
+URL search 
+URL query undefined
+URL path /testproxy.php
+URL search 
+URL query undefined
+URL path //zecmd/zecmd.jsp
+URL search ?comment=whoami
+URL query undefined
+URL path //CluJaNuL/cmd.jsp
+URL search ?cmd=whoami
+URL query undefined
+URL path //wstats/wstats.jsp
+URL search ?comment=whoami
+URL query undefined
+URL path //jmx-console/jmx.jsp
+URL search 
+URL query undefined
+URL path //_tomcat/index.jsp
+URL search 
+URL query undefined
+URL path //jmx-console/HtmlAdaptor
+URL search ?action=inspectMBean&name=jboss.system:type=ServerInfo
+URL query undefined
+URL path //invoker/JMXInvokerServlet
+URL search 
+URL query undefined
+URL path /CFIDE/administrator/
+URL search 
+URL query undefined
+URL path /testproxy.php
+URL search 
+URL query undefined
+URL path /testproxy.php
+URL search 
+URL query undefined
+URL path /
+URL search 
+URL query undefined
+URL path /
+URL search 
+URL query undefined
+URL path /phpmyadmin/scripts/setup.php
+URL search 
+URL query undefined
+URL path /
+URL search 
+URL query undefined
+URL path /cgi-bin/php
+URL search ?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E
+URL query undefined
+URL path /cgi-bin/php5
+URL search ?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E
+URL query undefined
+URL path /cgi-bin/php-cgi
+URL search ?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E
+URL query undefined
+URL path /cgi-bin/php5-cgi
+URL search ?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E
+URL query undefined
+URL path /cgi-bin/php-cgi.bin
+URL search ?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E
+URL query undefined
+URL path /index.html
+URL search 
+URL query undefined
+URL path /favicon.ico
+URL search 
+URL query undefined
+URL path /comment
+URL search 
+URL query undefined
+comment route
+Document Array: 
+[ { _id: 563bf0ae3363103c3e55f9e6,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563bf0cbede8be543ea5f519, Name: 'Carl', Comment: 'Hello' },
+  { _id: 563bf5487dc542c63ece1230, Name: 'Bob', Comment: 'Hello' },
+  { _id: 563bf689bed0eef13eb3f3be,
+    Name: 'Charles',
+    Comment: 'Hello' },
+  { _id: 563e70c5466a2e55502df85d,
+    Name: 'Mickey Mouse',
+    Comment: 'Hello' },
+  { _id: 563e74e4b13f02f0503d7a1c,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 563e7840b13f02f0503d7a1d,
+    Name: 'Brad',
+    Comment: 'This lab deserves 100%!' } ]
+URL path /weather.html
+URL search 
+URL query undefined
+URL path /weather.html
+URL search 
+URL query undefined
